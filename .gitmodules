@@ -1,0 +1,3 @@
+[submodule "s3rver"]
+	path = s3rver
+	url = git@github.com:jamhall/s3rver.git
